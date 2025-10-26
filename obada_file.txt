@@ -2,8 +2,12 @@ obada data
 tele is your uncle
 obada is your uncle
 <<<<<<< HEAD
+<<<<<<< HEAD
 
-editedit
+edit
 =======
 suiii123
 >>>>>>> 202974b81c7f903d8a94dad6b5e92b0b060bb75a
+=======
+>>>>>>> parent of 4de4ed3 (Update obada_file.txt)
+edit in branch
